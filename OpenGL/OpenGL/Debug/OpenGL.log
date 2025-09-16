@@ -1,0 +1,5 @@
+﻿  Example1.cpp
+C:\Users\Alumno\Downloads\OpenGL\OpenGL\OpenGL\Example1.cpp(18,5): warning C4102: 'Example': etiqueta sin referencia
+C:\Users\Alumno\Downloads\OpenGL\OpenGL\OpenGL\Example1.cpp(30,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Alumno\Downloads\OpenGL\OpenGL\OpenGL\Example1.cpp(32,15): warning C4244: 'argumento': conversión de 'size_t' a 'GLfloat'; posible pérdida de datos
+  OpenGL.vcxproj -> C:\Users\Alumno\Downloads\OpenGL\OpenGL\Debug\OpenGL.exe

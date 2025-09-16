@@ -1,0 +1,18 @@
+﻿  Cubo.cpp
+  Example.cpp
+  Example1.cpp
+  Example2.cpp
+  Example3.cpp
+  Figura.cpp
+  Figura2D.cpp
+  Figura3D.cpp
+  OpenGL.cpp
+  Transform.cpp
+  Vector3D.cpp
+  WorldSpace.cpp
+C:\Users\Alumno\Downloads\OpenGL\OpenGL\WorldSpace.cpp(34,29): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Alumno\Downloads\OpenGL\OpenGL\WorldSpace.cpp(35,28): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Alumno\Downloads\OpenGL\OpenGL\WorldSpace.cpp(38,20): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Alumno\Downloads\OpenGL\OpenGL\WorldSpace.cpp(39,20): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+  OpenGL.vcxproj -> C:\Users\Alumno\Downloads\OpenGL\Debug\OpenGL.exe
